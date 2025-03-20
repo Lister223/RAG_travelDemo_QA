@@ -1,4 +1,4 @@
-# RAG 旅遊問答系統 Demo
+# RAG 旅遊問答系統
 
 ## 簡介
 本專案是一個基於檢索增強生成（Retrieval-Augmented Generation, RAG）技術的旅遊問答系統，透過結合檢索與生成技術，提供更準確且即時的旅遊資訊回應。

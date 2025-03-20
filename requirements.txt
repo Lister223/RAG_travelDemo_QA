@@ -1,0 +1,7 @@
+pip install openai
+pip install langchain
+pip install --upgrade --quiet  langchain-openai
+pip install -U langchain-community
+pip install chromadb
+pip install PyMuPDF
+pip install gradio==3.47.1
